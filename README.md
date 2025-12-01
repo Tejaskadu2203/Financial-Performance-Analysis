@@ -54,3 +54,6 @@ A real-world business project leveraging **SQL and Power BI** to analyze financi
 
 ---
 
+<img width="873" height="487" alt="Image" src="https://github.com/user-attachments/assets/6104a351-3d94-493b-93a0-d3cfcc5e5e96" />
+
+
